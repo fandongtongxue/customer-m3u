@@ -2,11 +2,9 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE blank
 
-#EXTINF:-1 group-title="未分类",CNN
-http://sc2022.stream-link.org/tv2306.php?id=e07
 #EXTINF:-1 group-title="未分类",BBC
 http://sc2022.stream-link.org/tv2306.php?id=e05
-#EXTINF:-1 group-title="未分类",CNN备用
+#EXTINF:-1 group-title="未分类",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="未分类",半岛电视台
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
